@@ -1,12 +1,12 @@
 # LLM from Scratch 🧠
 
-A ground-up implementation of a GPT-2-style Large Language Model in PyTorch, built entirely from scratch — no HuggingFace Trainer, no magic abstractions. The notebook covers the full pipeline: architecture, pretraining, weight transfer from OpenAI's GPT-2, and fine-tuning for downstream classification.
+A ground-up implementation of a GPT-2-style Large Language Model in PyTorch, built entirely from scratch no HuggingFace Trainer, no magic abstractions. The notebook covers the full pipeline: architecture, pretraining, weight transfer from OpenAI's GPT-2, and fine-tuning for downstream classification.
 
 ---
 
 ## Overview
 
-This project was built for deep educational understanding of how LLMs actually work under the hood. Rather than calling `AutoModel.from_pretrained()` and calling it a day, every component — from multi-head attention to the training loop — is implemented manually.
+This project was built for deep educational understanding of how LLMs actually work under the hood. Rather than calling `AutoModel.from_pretrained()` and calling it a day, every component from multi-head attention to the training loop is implemented manually.
 
 The notebook is split into two main sections:
 
