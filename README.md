@@ -120,7 +120,7 @@ output = GenerateText(
 
 ---
 
-Reference link for model sharin:
+Reference link for model sharing:
 
 Customizing models https://share.google/FmTPQeyxVRycmZTKU
 
