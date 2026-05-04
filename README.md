@@ -120,6 +120,10 @@ output = GenerateText(
 
 ---
 
+Reference link for model sharin:
+
+Customizing models https://share.google/FmTPQeyxVRycmZTKU
+
 ## License
 
 MIT
